@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T14:21:11.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="gnqjDrpPHjdG_CbxI0RP" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T14:21:34.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="i0aLuiTFWhoT-M4hhNlj" version="24.4.0" type="github">
   <diagram name="Página-1" id="yerM-l9EdVIVFdWMQ-4x">
     <mxGraphModel dx="1016" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry y="26" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="67KR4b0ADti2KPWM-4B7-5" value="citaMedica" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="40" width="160" height="124" as="geometry" />
+          <mxGeometry x="840" y="80" width="160" height="124" as="geometry" />
         </mxCell>
         <mxCell id="67KR4b0ADti2KPWM-4B7-6" value="- fecha:&lt;div&gt;- hora:&lt;/div&gt;&lt;div&gt;- motivo:&lt;/div&gt;&lt;div&gt;- estado:&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="67KR4b0ADti2KPWM-4B7-5" vertex="1">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
