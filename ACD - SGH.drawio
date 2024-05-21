@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T13:35:08.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="s7j5KewNukfBYKiLjILH" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T13:35:18.547Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="Oub7Kg-JxY1iAvLro6o8" version="24.4.4" type="github">
   <diagram name="Página-1" id="yerM-l9EdVIVFdWMQ-4x">
     <mxGraphModel dx="975" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hBw5z4i2427hPrcZ02ir-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;GestionCitas&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ programarCita(&lt;span style=&quot;background-color: initial;&quot;&gt;CitaMedica&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;): boolean&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cancelarCita(CitaMedica): boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ realizarCita(): boolean&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="690" y="654.5" width="230" height="95" as="geometry" />
+          <mxGeometry x="660" y="650.5" width="230" height="95" as="geometry" />
         </mxCell>
         <mxCell id="hBw5z4i2427hPrcZ02ir-38" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="67KR4b0ADti2KPWM-4B7-6" target="hBw5z4i2427hPrcZ02ir-35" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
